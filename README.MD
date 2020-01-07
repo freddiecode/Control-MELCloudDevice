@@ -68,7 +68,7 @@ Please refer to my blog post found [here](https://www.cloudpilot.no/blog/Control
 
 ## Credit
 
-Developed by: Freddie Christiansen | [CloudPilot.no](www.cloudpilot.no)
+Developed by: Freddie Christiansen | [CloudPilot.no](http://www.cloudpilot.no)
 
 
 ## License
