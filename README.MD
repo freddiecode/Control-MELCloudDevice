@@ -52,7 +52,7 @@ This is probably the most useful function in this module. This badboy allows you
 
 6. **Stop-MELCloudDevice**
 
-Allows you to stop/shutdown your device. 
+Allows you to shutdown your device. 
 
 
 ## More information:
