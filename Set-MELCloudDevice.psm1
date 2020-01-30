@@ -207,7 +207,7 @@ PROCESS {
         DeviceID = "$DeviceID"
         DeviceType = '0'
         LastCommunication = "$(Get-Date -Format s)"
-        NextCommunication = "$((Get-Date).AddMinutes(1).ToString("yyy-MM-ddTHH:mm:ss"))"
+        NextCommunication = "$((Get-Date).AddMinutes(1).ToString("yyyy-MM-ddTHH:mm:ss"))"
         Power = 'true'
         HasPendingCommand = 'true'
         Offline = 'false'
