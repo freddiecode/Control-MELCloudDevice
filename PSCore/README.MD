@@ -51,7 +51,7 @@ Use this function to start your selected device.
 
 5. **Set-MELCloudDevice**
 
-This is probably the most useful function in this module. This badboy allows you to set different settings on your device. You can adjust the temperature, set desired fan speed and change the mode (heating or cooling).
+This is probably the most useful function in this module. This badboy allows you to set different settings on your device. You can adjust the temperature, set desired fan speed and change the mode (`heating` or `cooling`).
 
 6. **Stop-MELCloudDevice**
 
