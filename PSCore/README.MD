@@ -64,7 +64,7 @@ Please refer to my blog post found [here](https://www.cloudpilot.no/blog/Control
 
 
 ## History
-2.0 - Initial Build 
+2.0 - Initial Build for PowerShell Core
 
 
 
