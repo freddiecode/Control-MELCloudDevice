@@ -18,12 +18,12 @@ Get-Command -Module Control-MELCloudDevice
 ````powershell
 CommandType     Name                                               Version    Source
 -----------     ----                                               -------    ------
-Function        Get-MELCloudContextKey                             1.0        Control-MELCloudDevice
-Function        Get-MELCloudDevice                                 1.0        Control-MELCloudDevice
-Function        Get-MELCloudDeviceInfo                             1.0        Control-MELCloudDevice
-Function        Set-MELCloudDevice                                 1.0        Control-MELCloudDevice
-Function        Start-MELCloudDevice                               1.0        Control-MELCloudDevice
-Function        Stop-MELCloudDevice                                1.0        Control-MELCloudDevice
+Function        Get-MELCloudContextKey                             2.0        Control-MELCloudDevice
+Function        Get-MELCloudDevice                                 2.0        Control-MELCloudDevice
+Function        Get-MELCloudDeviceInfo                             2.0        Control-MELCloudDevice
+Function        Set-MELCloudDevice                                 2.0        Control-MELCloudDevice
+Function        Start-MELCloudDevice                               2.0        Control-MELCloudDevice
+Function        Stop-MELCloudDevice                                2.0        Control-MELCloudDevice
 ````
 
 
