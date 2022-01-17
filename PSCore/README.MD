@@ -1,4 +1,4 @@
-# Control-MELCloudDevice
+# PowerShell Core - Control-MELCloudDevice
 
 A PowerShell module for controlling your Mitsubishi Electric's MELCloud device(s).
 
@@ -61,8 +61,7 @@ Please refer to my blog post found [here](https://www.cloudpilot.no/blog/Control
 
 
 ## History
-
-1.0 - Initial Build 
+2.0 - Initial Build 
 
 
 
