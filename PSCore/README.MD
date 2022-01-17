@@ -2,6 +2,9 @@
 
 A PowerShell module for controlling your Mitsubishi Electric's MELCloud device(s).
 
+## Update
+17.01.22 - Updated release for PowerShell Core
+
 ## Installation
 Open a new PowerShell session, navigate to the folder containing the manifest (and the functions) and then import the module.
 
