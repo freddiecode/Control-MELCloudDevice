@@ -108,7 +108,7 @@ PROCESS {
 
             $obj = New-Object -TypeName PSObject -Property $Properties
 
-            Write-Output $obj | Format-Table ContextKey, RegistredOwner, CountryName, LanguageCode
+            Write-Output $obj
 
             
             

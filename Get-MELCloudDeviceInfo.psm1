@@ -101,7 +101,7 @@ PROCESS {
 END {
 
     
-    $DevInfo.value.Structure.Devices.Device | Select-Object * -ExcludeProperty ListHistory24Formatters | Format-List
+    $DevInfo.value.Structure.Devices.Device | Select-Object * -ExcludeProperty ListHistory24Formatters
     
 
 }

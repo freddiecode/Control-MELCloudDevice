@@ -68,7 +68,7 @@ PROCESS {
         
        foreach ($Devices in $Devices.Content) { 
 
-       $Info.value.Structure.Devices | select DeviceID,BuildingID, DeviceName, MacAddress, SerialNumber | Format-Table
+       $Info.value.Structure.Devices | select DeviceID,BuildingID, DeviceName, MacAddress, SerialNumber
 
 
        }
